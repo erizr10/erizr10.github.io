@@ -1,0 +1,47 @@
+img {
+    width: 1425px;
+    
+}
+
+.wrap {
+    width: 1060px;
+    height:auto;
+    margin: auto;
+    text-align:center;
+    position:relative;
+}
+.text_over_image {
+    position: absolute;
+    margin: auto;
+    top: 0;
+    left:0;
+    right:0;
+    bottom:0;
+    color:#fff;
+    height:100px;
+}
+
+.text_over_image2 {
+    position: absolute;
+    top: 320px;
+    left:0;
+    right:0;
+    bottom:0;
+    color:#fff;
+    height:100px;
+}
+
+.text_over_image3 {
+    position: absolute;
+    top: 340px;
+    left:0;
+    right:0;
+    bottom:0;
+    color:#fff;
+    height:100px;
+}
+
+body {
+    text-align: center;
+    font-family: "Arial";
+}
